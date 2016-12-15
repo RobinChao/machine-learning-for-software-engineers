@@ -34,7 +34,7 @@
 - [机器学习概论](#机器学习概论)
 - [掌握机器学习](#掌握机器学习)
 - [有趣的机器学习](#有趣的机器学习)
-- [给女友介绍机器学习](#给女友介绍机器学习)
+- [机器学习简介](#机器学习简介)
 - [一本深入，非技术的机器学习指南](#一本深入-非技术的机器学习指南)
 - [故事与经验](#故事与经验)
 - [机器学习算法](#机器学习算法)
@@ -129,13 +129,15 @@
 ## 机器学习概论
 - [ ] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [ ] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
 - [ ] [在罩子下的机器学习，博文简单明了地介绍了机器学习的原理](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 - [ ] [机器学习是什么？它是如何工作的呢？](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
+- [ ] [深度学习——一份非技术性的简介](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## 掌握机器学习
-- [ ] [掌握机器学习的枉法](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [ ] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [ ] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [掌握并运用机器学习](http://machinelearningmastery.com/start-here/)
 - [ ] [Python机器学习小课程](http://machinelearningmastery.com/python-machine-learning-mini-course/)
@@ -148,10 +150,11 @@
 - [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 
-## 给女友介绍机器学习
+## [机器学习简介](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)(用手指沾上墨水来书写机器学习简介)
 - [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
+- [ ] [Part 2 : 监督学习与非监督学习](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## 一本深入，非技术的机器学习指南
+## 一本深入、非技术性的机器学习指南
 - [ ] [概述，目标，学习类型和算法](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [数据的选择，准备与建模](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [模型的评估，验证，复杂性与改进](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
@@ -179,6 +182,7 @@
 - [ ] [机器学习算法之旅](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [ ] [机器学习工程师需要知道的10种算法](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [比较监督学习算法](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
+- [收集的最简化、可执行的机器学习算法](https://github.com/rushter/MLAlgorithms)
 
 ## 入门书籍
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
@@ -208,7 +212,7 @@
 - [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
     - [GitHub repository(R)](http://www-bcf.usc.edu/~gareth/ISL/code.html)
     - [GitHub repository(Python)](https://github.com/JWarmenhoven/ISLR-python)
-    - [Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+    - [视频](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
     - [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 - [ ] [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
@@ -219,7 +223,7 @@
     - [Machine Learning Hands-On for Developers and Technical Professionals review](https://blogs.msdn.microsoft.com/querysimon/2015/01/01/book-review-machine-learning-hands-on-for-developers-and-technical-professionals/)
     - [GitHub repository](https://github.com/jasebell/mlbook)
 - [ ] [Learning from Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069)
-    - [Online tutorials](https://work.caltech.edu/telecourse.html)
+    - [在线教程](https://work.caltech.edu/telecourse.html)
 - [ ] [Reinforcement Learning: An Introduction (2nd Edition)](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ ] [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
@@ -234,16 +238,19 @@
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
 - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [ ] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079)
+- [ ] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 - [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [ ] BigML Webinar
-    - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
-    - [Resources](https://bigml.com/releases)
+    - [视频](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
+    - [资源](https://bigml.com/releases)
 - [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
     - [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
-    - [Blog](http://blog.kaggle.com/author/kevin-markham/)
+    - [博客](http://blog.kaggle.com/author/kevin-markham/)
 - [ ] [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 - [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
+- [ ] [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+- [ ] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
 
 ## MOOC
 - [ ] [Udacity的机器学习导论](https://www.udacity.com/course/intro-to-machine-learning--ud120)
@@ -263,10 +270,14 @@
 - [ ] [推理统计学概论](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 ## 资源
+- [ ] [一个月学会机器学习](https://elitedatascience.com/machine-learning-masterclass)
+- [ ] [一份“非技术性”的机器学习与人工智能指南](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
 - [ ] [Hacker News的《软件工程师的机器学习》](https://news.ycombinator.com/item?id=12898718)
 - [ ] [开发者的机器学习](https://xyclade.github.io/MachineLearning/)
 - [ ] [给开发者的关于机器学习的建议](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [机器学习入门](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
+- [ ] [为新手准备的机器学习入门教程](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
+- [ ] [初学者如何自学机器学习](https://elitedatascience.com/learn-machine-learning)
 - [ ] [机器学习自学资源](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [提升你的机器学习技能](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 - [ ] 用机器学习让Hacker News更具可读性
@@ -291,8 +302,11 @@
         - [2016年7月](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
         - [2016年8月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
         - [2016年9月](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
+        - [2016年10月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-35c37825a943#.td5im1p5z)
+        - [2016年11月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-b499e4213a34#.7k39i08tv)
     - 算法
         - [2016年9月](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
+        - [2016年10月-11月](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
 - [全面的数据科学家的资源](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind的人工智能资源](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [令人惊叹的机器学习](https://github.com/josephmisiti/awesome-machine-learning)
@@ -306,6 +320,16 @@
 
 ## 游戏
 - [Halite：AI编程游戏](https://halite.io/)
+- [Vindinium: 挑战AI编程](http://vindinium.org/)
+- [Video Game AI比赛](http://www.gvgai.net/)
+- [愤怒的小鸟AI比赛](https://aibirds.org/)
+- [The AI Games](http://theaigames.com/)
+- [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/)
+- [CodeCup](http://www.codecup.nl/intro.php)
+- [星际争霸AI学生锦标赛](http://sscaitournament.com/)
+- [AIIDE星际争霸AI竞赛](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
+- [CIG星际争霸AI竞赛](https://sites.google.com/site/starcraftaic/)
+- [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
 
 ## 播客
 - ### 适合初学者的播客：
@@ -352,7 +376,7 @@
 - [ ] [机器学习面试问题有哪些相同的？](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
 - [ ] [什么是评价一个机器学习研究者的最好的问题？](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [机器学习面试问题大搜集](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-
+- [ ] [121个需要掌握的问题与回答](https://learn.elitedatascience.com/mlqa-welcome)
 
 
 ## 我崇拜的公司
